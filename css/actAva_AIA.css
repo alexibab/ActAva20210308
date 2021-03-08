@@ -1,3 +1,13 @@
 .botonsAIA {
    display: flex;
+   justify-content: space-between;
+
  }
+ .elementVisibleAIA{
+	display:flex;
+	}
+
+.elementOcultAIA{
+	display:none;
+	}
+		
