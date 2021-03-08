@@ -1,0 +1,3 @@
+function mostraAlertaAIA(){
+  alert("Alerta!");
+}
